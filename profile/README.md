@@ -1,6 +1,6 @@
 # 🌌 Robotic Space Exploration (RoSE) Lab @ Colorado School of Mines
 
-Welcome to the **RoSE Lab**, led by **Dr. Frankie Zhu**, Assistant Professor of Mechanical Engineering at the Colorado School of Mines. We build intelligent robotic systems to explore extreme space environments — from orbital satellites to lunar/Martian rovers and sub-surface explorers. More info at [franceszhu.space](https://franceszhu.space).
+Welcome to the **RoSE Lab**, led by **Dr. Frankie Zhu**, Assistant Professor of Mechanical Engineering at the Colorado School of Mines. We build intelligent robotic systems to explore extreme space environments, from orbital satellites to lunar/Martian rovers and sub-surface explorers. More info at [franceszhu.space](https://franceszhu.space).
 
 ---
 
